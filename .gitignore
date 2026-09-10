@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+*.sqlite3
+
+# Secrets
+.env
+.env.local
+
+# Node
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
